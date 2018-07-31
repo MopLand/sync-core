@@ -1,0 +1,9 @@
+{
+	"name": "syncore",
+	"description": "The core file synchronization framework",
+	"version": "0.0.1",
+	"dependencies": {
+		"glob": "*",
+		"request": "*"
+	}
+}
